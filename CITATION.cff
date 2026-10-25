@@ -16,4 +16,6 @@ keywords:
 license: CC-BY-4.0
 url: "https://www.ottorighe.it/metodologia-sovraffollamento/"
 version: "2026.09"
-# Da completare dopo la prima release: date-released, doi (Zenodo), repository-code
+date-released: 2026-10-25
+doi: 10.5281/zenodo.23642187
+repository-code: "https://github.com/Ottorighe/dis-metodologia"
