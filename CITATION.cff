@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se usi questi dati o questa definizione, citali come segue."
+title: "DIS: Detenuti in Istituti Sovraffollati. Definizione, metodo e serie mensile"
+type: dataset
+authors:
+  - name: "Ottorighe"
+    website: "https://www.ottorighe.it/"
+    email: "redazione@ottorighe.it"
+abstract: "Indicatore sul sovraffollamento delle carceri italiane: numero di persone detenute in istituti nei quali le presenze superano la capienza (regolamentare o effettiva). Elaborazione su dati del Dipartimento dell'amministrazione penitenziaria e delle schede di trasparenza del Ministero della giustizia."
+keywords:
+  - carceri
+  - sovraffollamento
+  - Italia
+  - dati aperti
+  - indicatore statistico
+license: CC-BY-4.0
+url: "https://www.ottorighe.it/metodologia-sovraffollamento/"
+version: "2026.09"
+# Da completare dopo la prima release: date-released, doi (Zenodo), repository-code
