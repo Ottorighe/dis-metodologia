@@ -1,5 +1,7 @@
 # DIS: Detenuti in Istituti Sovraffollati
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23642187.svg)](https://doi.org/10.5281/zenodo.23642187)
+
 Definizione, metodo e serie storica di un indicatore sul sovraffollamento delle carceri italiane, elaborato dalla redazione di [Ottorighe](https://www.ottorighe.it/) e pubblicato ogni mese nel *Report mensile sulle carceri italiane*.
 
 > **In breve.** Il DIS è il numero di persone detenute presenti in istituti penitenziari nei quali, alla data di rilevazione, le presenze superano la capienza. Si esprime in valore assoluto o come quota percentuale sul totale dei detenuti. Un istituto entra nel conteggio quando le presenze sono maggiori della capienza, senza margini di tolleranza.
@@ -50,6 +52,12 @@ La rilevazione è una fotografia riferita a una data e non registra i movimenti 
 ## Licenza
 
 Dati e testi: [Creative Commons Attribuzione 4.0](LICENSE) (CC BY 4.0), con indicazione della fonte. Codice di esempio: licenza MIT ([`LICENSE-CODICE`](LICENSE-CODICE)).
+
+## Come citare
+
+Ottorighe (2026). *DIS: Detenuti in Istituti Sovraffollati. Definizione, metodo e serie mensile*. Versione 2026.09. Zenodo. [https://doi.org/10.5281/zenodo.23642187](https://doi.org/10.5281/zenodo.23642187)
+
+Il DOI indicato è quello di concetto e rimanda sempre all'ultima versione; ogni versione ha anche un DOI proprio, elencato nella pagina di Zenodo (la 2026.09 è `10.5281/zenodo.23642188`). GitHub ricava la citazione anche da [`CITATION.cff`](CITATION.cff).
 
 ## Contatti
 
